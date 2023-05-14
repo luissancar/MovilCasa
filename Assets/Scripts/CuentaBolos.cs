@@ -27,7 +27,7 @@ public class CuentaBolos : MonoBehaviour
             Debug.Log("Entroo");
 
         }
-       
+         
     }
 
     private void OnCollisionExit2D(Collision2D collision)
